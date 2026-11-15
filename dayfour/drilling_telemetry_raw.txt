@@ -1,0 +1,10 @@
+# Synthetic drilling telemetry training data
+# Format: well_id|timestamp|pressure|pressure_unit|temperature|temperature_unit|status
+WELL-001|2026-11-15T08:00:00|1000|psi|212|F|ACTIVE
+WELL-002|2026-11-15T08:15:00|250|kPa|35|C|OFFLINE
+WELL-003|2026-11-15T08:30:00|850|psi|180|F|ACTIVE
+WELL-004|2026-11-15T08:45:00|not-a-number|psi|90|F|ACTIVE
+WELL-005|2026-11-15T09:00:00|500|bar|40|C|ACTIVE
+WELL-006|2026-11-15T09:15:00|300|kPa|25|C
+WELL-007|2026-11-15T09:30:00|-10|psi|70|F|OFFLINE
+WELL-008|2026-11-15T09:45:00|700|psi|95|F|ACTIVE
