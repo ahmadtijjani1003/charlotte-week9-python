@@ -1,0 +1,12 @@
+
+well_id,pressure_psi,status
+WELL-07,3150,active
+WELL-08,2780,active
+WELL-09,3325,inactive
+WELL-10,2895,active
+WELL-07,3210,active
+WELL-11,,invalid
+WELL-08,2810,active
+WELL-12,2715,inactive
+WELL-10,4100,active
+WELL-13,-25,active
